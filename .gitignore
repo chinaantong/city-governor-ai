@@ -1,0 +1,56 @@
+# Logs
+Logs/
+*.log
+*.log.*
+
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ocal[Cc]ache/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln
+*.csproj
+*.csproj.user
+
+# Rider
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+*.sublime-workspace
+*.sublime-project
+
+# Environment
+.env
+.env.local
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Asset Store
+Assets/AssetStoreTools*
+
+# Recordings
+Recordings/
+
+# Custom
+*.bak
+*.tmp
+*.swp
